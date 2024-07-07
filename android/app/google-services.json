@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622825788212",
+    "project_id": "kendoit-e271a",
+    "storage_bucket": "kendoit-e271a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622825788212:android:8cfd8607fa310025f80b61",
+        "android_client_info": {
+          "package_name": "com.mycompany.kendoit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkl7QfX8eYxyd4DRM6r3f2E9tIjzaRH3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
